@@ -28,25 +28,29 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BloosomNet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BloosomNet&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BloosomNet&theme=tokyonight" alt="Profile details"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloosomNet&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BloosomNet&theme=tokyonight" alt="GitHub stats"/>
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=BloosomNet&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BloosomNet&theme=tokyonight" alt="Repos per language"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BloosomNet&theme=tokyonight" alt="Most commit language"/>
 
 </div>
 
 ## 📌 Featured Projects
 
-<div align="center">
+### 🏪 [aplikasi-kasir-warung](https://github.com/BloosomNet/aplikasi-kasir-warung)
 
-<a href="https://github.com/BloosomNet/aplikasi-kasir-warung">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BloosomNet&repo=aplikasi-kasir-warung&theme=tokyonight&hide_border=true" alt="aplikasi-kasir-warung"/>
-</a>
-<a href="https://github.com/BloosomNet/katalog-produk-warung">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=BloosomNet&repo=katalog-produk-warung&theme=tokyonight&hide_border=true" alt="katalog-produk-warung"/>
-</a>
+Web-based cashier (point of sale) application for small Indonesian shops: transactions, product management, and sales records.
 
-</div>
+<img src="https://img.shields.io/github/stars/BloosomNet/aplikasi-kasir-warung?style=flat-square" alt="Stars"/> <img src="https://img.shields.io/github/forks/BloosomNet/aplikasi-kasir-warung?style=flat-square" alt="Forks"/> <img src="https://img.shields.io/github/last-commit/BloosomNet/aplikasi-kasir-warung?style=flat-square" alt="Last commit"/>
+
+### 🛍️ [katalog-produk-warung](https://github.com/BloosomNet/katalog-produk-warung)
+
+Online product catalog for small Indonesian shops, so customers can browse what is available before they visit.
+
+<img src="https://img.shields.io/github/stars/BloosomNet/katalog-produk-warung?style=flat-square" alt="Stars"/> <img src="https://img.shields.io/github/forks/BloosomNet/katalog-produk-warung?style=flat-square" alt="Forks"/> <img src="https://img.shields.io/github/last-commit/BloosomNet/katalog-produk-warung?style=flat-square" alt="Last commit"/>
 
 - 🏆 **SapuJagat** — team capstone project at Dicoding DBS Foundation Coding Camp 2025, where I contributed as a developer
 
