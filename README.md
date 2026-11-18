@@ -52,6 +52,12 @@ Online product catalog for small Indonesian shops, so customers can browse what 
 
 <img src="https://img.shields.io/github/stars/BloosomNet/katalog-produk-warung?style=flat-square" alt="Stars"/> <img src="https://img.shields.io/github/forks/BloosomNet/katalog-produk-warung?style=flat-square" alt="Forks"/> <img src="https://img.shields.io/github/last-commit/BloosomNet/katalog-produk-warung?style=flat-square" alt="Last commit"/>
 
+### 📦 [inventaris-barang-warung](https://github.com/BloosomNet/inventaris-barang-warung)
+
+Stock inventory system for small Indonesian shops: stock in and out, low-stock warnings, and supplier tracking, sharing the same product data as the cashier app.
+
+<img src="https://img.shields.io/github/stars/BloosomNet/inventaris-barang-warung?style=flat-square" alt="Stars"/> <img src="https://img.shields.io/github/forks/BloosomNet/inventaris-barang-warung?style=flat-square" alt="Forks"/> <img src="https://img.shields.io/github/last-commit/BloosomNet/inventaris-barang-warung?style=flat-square" alt="Last commit"/>
+
 - 🏆 **SapuJagat** — team capstone project at Dicoding DBS Foundation Coding Camp 2025, where I contributed as a developer
 
 ## 🤝 Connect With Me
