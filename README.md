@@ -10,7 +10,7 @@
 
 - 🎓 Fresh graduate in **Informatics** from Universitas Bhayangkara Jakarta Raya
 - 💻 **Full-Stack Web Developer** focused on JavaScript, Node.js, Express, and MySQL
-- 🏪 Currently building real-world web apps for local small businesses (warung): cashier systems and product catalogs
+- 🏪 Currently building real-world web apps for local small businesses (warung) — cashier, inventory, and product catalog, now combined into one management system
 - 🎓 Capstone developer at **Dicoding DBS Foundation Coding Camp 2025** (SapuJagat, team project)
 - 🌱 Always learning by shipping: every project here is documented and deployed
 - 📫 Reach me at **faridilham220@gmail.com**
@@ -39,6 +39,14 @@
 </div>
 
 ## 📌 Featured Projects
+
+### ⭐ [sistem-manajemen-umkm](https://github.com/BloosomNet/sistem-manajemen-umkm) — Flagship
+
+All-in-one management system for small Indonesian shops: cashier, stock inventory, and a public product catalog in a single app, sharing one stock source — plus a daily summary dashboard.
+
+<img src="https://img.shields.io/github/stars/BloosomNet/sistem-manajemen-umkm?style=flat-square" alt="Stars"/> <img src="https://img.shields.io/github/forks/BloosomNet/sistem-manajemen-umkm?style=flat-square" alt="Forks"/> <img src="https://img.shields.io/github/last-commit/BloosomNet/sistem-manajemen-umkm?style=flat-square" alt="Last commit"/>
+
+🚀 Live demo coming soon — deployment in progress.
 
 ### 🏪 [aplikasi-kasir-warung](https://github.com/BloosomNet/aplikasi-kasir-warung)
 
